@@ -1,0 +1,31 @@
+Class/Maker/Examples
+====================
+
+This is an "example-pack" for Class::Maker. It contains a library of classes, which are more or less
+usable (more informative, then functional). I strongly encourage to read the source instead
+expecting too much from the documentation.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+Class::Maker
+
+AUTHOR
+
+Murat Uenalan, muenalan@cpan.org
+
+COPYRIGHT AND LICENCE
+
+(c) 2002 by Murat Uenalan. All rights reserved. Note: This program is
+free software; you can redistribute it and/or modify it under the same
+terms as perl itself.

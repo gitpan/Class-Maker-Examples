@@ -1,0 +1,12 @@
+Revision history for Perl extension Class::Maker::Examples.
+
+0.01  Fri Jul  5 12:45:25 2002
+	- original version; created by h2xs 1.21 with options
+		-n Class::Maker::Examples -X
+
+0.01_01 17.07.2002 14:11
+	- some reorganisation of the classes to the *.pm files
+	- added Soccer.pm Tutorial
+
+0.01_02
+	- moved "Bouncer" classes to Data::Verify (CPAN)

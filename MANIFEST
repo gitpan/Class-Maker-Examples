@@ -1,0 +1,22 @@
+Changes
+Examples.pm
+Examples/Array.pm
+Examples/Auth.pm
+Examples/Commerce.pm
+Examples/Expirable.pm
+Examples/Human.pm
+Examples/Lockable.pm
+Examples/Obsessor.pm
+Examples/Soccer.pm
+Examples/Trustee.pm
+MANIFEST			This list of files
+Makefile.PL
+README
+t/array.t
+t/examples/auth.t
+t/examples/bouncer.t
+t/examples/expirable.t
+t/examples/lockable.t
+t/examples/obsessor.t
+t/examples/trustee.t
+test.pl
